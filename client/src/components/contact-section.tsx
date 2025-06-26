@@ -53,8 +53,8 @@ export default function ContactSection() {
   };
 
   const contactInfo = [
-    { icon: 'fas fa-envelope', label: 'Email', value: 'sharif.sazid.3.com' },
-    { icon: 'fas fa-phone', label: 'Phone', value: '+880 18722-83211' },
+    { icon: 'fas fa-envelope', label: 'Email', value: 'sharminjuthi1080@gmail.com' },
+    { icon: 'fas fa-phone', label: 'Phone', value: '+8801797084137' },
     { icon: 'fas fa-map-marker-alt', label: 'Location', value: 'Sylhet, Bangladesh' }
   ];
 

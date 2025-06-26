@@ -6,19 +6,19 @@ export default function TestimonialsSection() {
 
   const testimonials = [
     {
-      content: "Sharif's attention to detail and technical expertise made our project a huge success. Their React.js skills are exceptional, and they always deliver clean, maintainable code.",
-      name: "Sharmin Akther",
+      content: "Sharmin's attention to detail and technical expertise made our project a huge success. Their React.js skills are exceptional, and they always deliver clean, maintainable code.",
+      name: "Sharif Mahmud Sazid",
       role: "Senior Frontend Developer",
-      avatar: "/src/assets/testimonials/sharmin.jpg"
+      avatar: "/src/assets/profile/your-photo.jpg"
     },
     {
-      content: "Working with Sharif was a pleasure. They bring creativity and technical excellence together, creating user interfaces that are both beautiful and highly functional.",
+      content: "Working with Sharmin was a pleasure. They bring creativity and technical excellence together, creating user interfaces that are both beautiful and highly functional.",
       name: "Shafayat Mahmud",
       role: "Product Manager", 
       avatar: "/src/assets/testimonials/shafayat.jpg"
     },
     {
-      content: "Sharif's problem-solving skills and dedication to learning new technologies make them an invaluable team member. Highly recommended for any frontend development project.",
+      content: "Sharmin's problem-solving skills and dedication to learning new technologies make them an invaluable team member. Highly recommended for any frontend development project.",
       name: "Sumaya Jui",
       role: "UX Designer",
       avatar: "/src/assets/testimonials/jui.jpg"

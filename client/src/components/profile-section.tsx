@@ -71,8 +71,8 @@ export default function ProfileSection() {
                   <div className="gradient-border p-1 rounded-3xl">
                     <div className="bg-slate-deep rounded-3xl p-2">
                       <img
-                        src="/src/assets/profile/your-photo.jpg" // Replace with your photo
-                        alt="Sharif Mahmud - Full Stack Developer"
+                        src="/src/assets/testimonials/sharmin.jpg" // Replace with your photo
+                        alt="Sharmin Akther - Full Stack Developer"
                         className="w-full h-96 object-cover rounded-2xl shadow-2xl group-hover:shadow-primary/20 transition-all duration-500"
                       />
                       
@@ -125,7 +125,7 @@ export default function ProfileSection() {
                   transition={{ duration: 0.8 }}
                   viewport={{ once: true }}
                 >
-                  Meet <span className="text-gradient">Sharif Mahmud Sazid</span>
+                  Meet <span className="text-gradient">Sharmin Akther Juthi</span>
                 </motion.h2>
                 
                 <motion.div 

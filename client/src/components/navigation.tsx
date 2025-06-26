@@ -38,7 +38,7 @@ export default function Navigation() {
             className="text-2xl font-bold text-gradient cursor-pointer"
             onClick={() => scrollToSection('home')}
           >
-            A.S.M<span className="text-accent">.</span>
+            S.A.J<span className="text-accent">.</span>
           </motion.div>
 
           {/* Desktop Navigation */}
